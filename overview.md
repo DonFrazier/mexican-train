@@ -22,6 +22,8 @@ When Blanks are Wild and the Double Blank is the Engine for the current round, p
 When Blanks are Wild the Mexican Train must be started with a Blank.
 The Double Blank may not be laid against another Double.
 Another Double may not be laid against the Double Blank.
+A blank face matches any tile.
+Any tile matches a blank face.
 
 #### House Rule for Blanks
 - [ ] Blanks are Wild
