@@ -8,17 +8,17 @@ The sequential ascending/descending Engine options are most common.Each round ad
 
 ### House Rule for Discovering Engine
     - [] 👟Engine for the Round is removed from the Boneyard before the shuffle and placed in the Depot
-    - [] Must be laid from a player's Hand
+    - [ ] Must be laid from a player's Hand
 
 
 ### House Rule When Next Engine must be laid from a player's Hand
-- [] Round one uses the highest Double in the set.  Each Round uses the next lowest Double.
+- [x] Round one uses the highest Double in the set.  Each Round uses the next lowest Double.
 See [Overview](overview.md) for highest Double
     
-- [] Round one uses the lowest Double in the set.  Each Round uses the next highest Double.
+- [ ] Round one uses the lowest Double in the set.  Each Round uses the next highest Double.
 See [Overview](overview.md) for lowest Double
 
-- [] Blank is always the last Engine in the game
+- [ ] Blank is always the last Engine in the game
 
 To speed play the highest Double after all hands are drawn is the Engine.  The first player asks does anyone have the 12, 11, 10, etc. Double.  This ensures the highest double is selected without anyone having to reveal their held Doubles.  
 
