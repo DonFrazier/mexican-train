@@ -7,6 +7,7 @@
 |Derail|Laying a Tile that ends in a number with no remaining unplayed Tiles.|
 |Double|A Tile where both Faces have the same number of pips.|
 |Draw|Take a Tile from the Boneyard either to form a new Hand or because no Tiles in the Hand can be played.|
+|Empties|The Tiles remaining in a Hand after another player goes out and whose total is added to the player's score for this Round.|
 |Engine|The initial Tile for the current Round.  All Lines start with a Face matching the Engine.|
 |Face|Half of a Tile with a number of pips (or an actual number)|
 |Game|All the Rounds of a particular playing session.|
@@ -21,4 +22,5 @@
 |Satisfy&nbsp;a&nbsp;Double|Also Close a Double. Lay another Tile with a Face that matches the Double.|
 |Sequence|A set of Tiles that match end to end and are played on a Line in a single turn.|
 |Tile|A Domino with two Faces.|
-|Uno|A Card game unrelated to Dominos, despite this term being the reason this FAQ exists.|
+|Turn|The act of playing that starts when Laying a Tile(s) on the Line(s) and lasts until the last Tile laid is released.|
+|Uno|A Card game unrelated to Dominos, despite this term being the reason this FAQ exists and needing to define Turn.|
