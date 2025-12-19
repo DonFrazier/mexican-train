@@ -1,4 +1,14 @@
 # Terms and Definitions
+
+I have read a lot of Mexican Train Rules.
+While the rules are all very similar they use different terms that all ultimately mean the same thing.
+For this repository I note the various names for a thing here.
+If you see a term that just says **See something else** that is because I tried to use **Something else** throughout these pages.
+I am human.
+I may have erred in some cases.
+If you need to, you may cancel me for the mistake.
+(I don't care about cancel culture.  I took this time to do this because I love the game.  Cancel away.  I'll still love the game.)
+
 |Term|Definition|
 |-|-|
 |Blank|A Face with no pips (or the number 0).|
