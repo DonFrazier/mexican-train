@@ -29,7 +29,7 @@
 |Satisfy&nbsp;a&nbsp;Double|Lay another Tile with a Face that matches the Double.|
 |Sequence|A set of Tiles that match End to End and are played on a Line in a single Turn.|
 |Station|See Depot.|
-|Tap|An actual tap of one's final domino that signals other players one may be able to go out on his next Turn.|
+|Tap|An actual tap of one's final Tile that alerts other players one may be able to go out on his next Turn.|
 |Tile|A Domino with two Faces.|
 |Track|See Line.|
 |Train|See Line.|
