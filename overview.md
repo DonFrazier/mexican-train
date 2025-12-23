@@ -1,19 +1,20 @@
 # Overview of Mexican Train
 
 ## Object of the Game
-Play all tiles in your hand and go out each round.
+Have Fun and be the first one to play all Tiles in your Hand and each round.
 
 ## Scoring
-After a player goes out on a round, all other players total the pips on unplayed tiles in the Hand.
-A running total is kept until the last round is played.
+After a player goes out on a Round, all other players total the pips on unplayed Tiles in the Hand.
+A running total is kept until the last Round is played.
 The lowest score wins.
 
 ## Blanks
 Blanks (or 0's) add some options to the game.
-A player holding only the Double Blank when another player goes out  also receives 0 points for the round.
-Holding multiple blanks may be one way to reduce the score for that round when another player goes out.
+A player holding only the Double Blank when another player goes out also receives 0 points for the round.
+Keep reading for more options for scoring blanks.
+Holding multiple blanks may be one way to reduce the score for that Round when another player goes out.
 
-Treating blank Faces as wild that match another other face puts additional zing into the game.
+Treating blank Faces as wild that match any other face puts additional zing into the game.
 Ask your opponents about trying some of these options occasionally to spice up your game.
 
 ### Blanks are Wild
@@ -76,6 +77,7 @@ Designating the **first player** is only important when house rules require some
 ### When a first player is needed
 - The Engine Tile is removed from the Boneyard and placed in the Depot before the Shuffle.
 - When the Engine Tile for the round is not held by any player and must be drawn from the Boneyard.
+- When all players start their private Train, when possible, before the first Turn begins.
 
     See [Place Engine](place-engine.md) for details.
 
