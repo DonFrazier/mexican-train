@@ -50,5 +50,6 @@ If you need to, you may cancel me for the mistake.
 |Turn|The act of playing that starts when Laying a Tile(s) on the Line(s) and lasts until the last Tile laid is released.|
 |Unsatisfied&nbsp;Double|A Double that has not yet had another Tile laid next to it.|
 |Wagon|See Tile (from French Translation of boxcar.)|
+|Wild|Treat blank Faces as matching any other Face, including other Blanks.|
 |Uno|A Card game unrelated to Dominos, despite this word also being the reason this FAQ exists and needing to define Turn.  See Tap for more information.|
 
