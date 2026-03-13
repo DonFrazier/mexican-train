@@ -7,7 +7,7 @@ Feel free to pick and choose your rules from these options.
 I tried to explain the options as I understand them.
 You are always free to change the rules in your house, just a long as everyone knows the rules before play begins.
 In my house, I want everyone to have fun and use some different options than others.
-Now lets get going.
+Now let's get going.
 
 
 [Overview](overview.md)<br />
@@ -52,4 +52,4 @@ Try some of the variations that span the globe.
 One day I hope to make it to Carriacou and lay tiles on **both ends(gasp!)** of the Mexican Train.
 Check out the **Mexican Train Dominos Group** on that time-wasting book of faces ... er ... meta faces.
 Most of all post **YOUR** house rules and have fun!
-And if you see David call **UNO**! as loud as you can.
+And if you see David, call **UNO**! as loud as you can.
