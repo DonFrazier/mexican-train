@@ -1,12 +1,37 @@
 # Overview of Mexican Train
 
 ## Object of the Game
-Have Fun and be the first one to play all Tiles in your Hand and each round.
+Have Fun! ... and be the first one to play all Tiles in your Hand each Round.
+
+## Basic Game Play
+This is an abbreviated description of game play so you can get playing right away.  Countless options exist for all the aspects of the game and the House Rules are always the Rules for the House.  When you play in a different House, you may experience different rules.  This FAQ exists to document the various aspects and to help you have fun when you lay down your own House Rules.
+
+### Playing
+1. Shuffle the boneyard
+1. Draw your Hand for this Round
+1. Place the Engine in the Depot
+1. Each player lays out his Private Train using as many Tiles as possible
+1. The first player starts the Mexican Train (or draws)
+1. Play moves to the left.  Each Player lays a Tile on his Private Train or any Public Train.
+1. Play continues until one player has no more Tiles.
+1. Remaining players total their Pips on all remaining Empties.
+1. Total the scores and start the next round.
+1. After all Rounds are played, the lowest score wins the game.
+
+#### Player does not have a valid Tile
+When the player does not have a valid Tile to play on his Private Train or any Public Train he must draw a Tile from the Boneyard.
+If the drawn Tile can be played it is laid on a valid Train and his Turn ends.  If the drawn Tile cannot be played, the player's Personal Train is marked and it immediately becomes a Public Train.  The Train remains Public until the owner removes the Marker by laying a Tile on his own Train.  The Train immediately reverts to a Private Train available for play only by the owner.
+
+#### Player has a valid tile but does not way to play it
+In some circumstances it could be advantageous to a player to draw from the Boneyard rather than play a tile from his Hand.  Drawing from the Boneyard is not allowed if a player has a valid Tile.  The player MUST lay the tile from his Hand even if it is not to his advantage to do so.
+
+#### Player lays a Double
+Doubles are laid perpendicular on the Line so they are easy to spot.  The player must immediately lay another tile.  If the player cannot play, see [Player does not have a valid Tile](#player-does-not-have-a-valid-tile)  When a Turn ends with an Unsatisfied Double, then Doubles Rules take effect immediately.  Doubles Rules are the most hotly discussed rules and vary based on the House.  See [Doubles Rules](doubles-rules.md) for more details.
 
 ## Scoring
-After a player goes out on a Round, all other players total the pips on unplayed Tiles in the Hand.
+After a player goes out on a Round, all other players total the pips on unplayed Tiles in their Hand.
 A running total is kept until the last Round is played.
-The lowest score wins.
+The lowest score wins the game.
 
 ## Blanks
 Blanks (or 0's) add some options to the game.
@@ -32,6 +57,8 @@ Any tile matches a blank face.
 ### House Rule on Blanks Scoring
 - [ ] Blank Tile Faces score **0**.
 The Double Blank scores **0** for the round.
+- [ ] Blank Tile Faces score **0**.
+The Double Blank scores **25** for the round.
 - [ ] Blank Tile Faces Score **25**.
 The Double Blank scores **50** for the round.
 
